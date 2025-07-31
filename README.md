@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Fiverr](https://www.fiverr.com/mdshamimahmed78/)
 
-- 🤝 I’m looking for help with [Full-Stack web design & development](https://github.com/mdshamimahmed78)
+- 🤝 I’m looking for help with [Full-Stack web development & design] (https://github.com/mdshamimahmed78)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdshamimahmed78](https://github.com/mdshamimahmed78)
 
