@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Md Shamim Ahmed</h1>
-<h3 align="center">as a highly skilled Full-Stack Developer | Professional Web Designer | WordPress Expert.</h3>
+<h3 align="center">As a highly skilled Full-Stack Developer | Professional Web Designer | WordPress Expert.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshamimahmed78&label=Profile%20views&color=0e75b6&style=flat" alt="mdshamimahmed78" /> </p>
 
