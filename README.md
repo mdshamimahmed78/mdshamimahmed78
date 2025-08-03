@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/BHChnM99/Blue-and-White-Simple-Web-Designer-General-Linked-In-Banner-1.png" alt="" />
+<img src="https://i.ibb.co/BHChnM99/Blue-and-White-Simple-Web-Designer-General-Linked-In-Banner-1.png" alt="mdshamimahmed78"/>
 <h1 align="center">Hello 👋, I'm Md Shamim Ahmed</h1>
 <h3 align="center">As a highly skilled Full-Stack Developer | Professional Web Designer | WordPress Expert.</h3>
 
